@@ -1,2 +1,3 @@
 Git is a version control tool  system -- add by mugua 
 Git is free soft 
+I am begining to use Git 
