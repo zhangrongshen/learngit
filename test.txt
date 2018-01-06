@@ -2,3 +2,5 @@ Git is a version control tool  system -- add by mugua
 Git is free soft 
 I am begining to use Git 
 Git tracks change
+Git tracks change2
+Git tracks change3
